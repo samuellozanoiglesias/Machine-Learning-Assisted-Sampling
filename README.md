@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the hands-on tutorials of the **[CECAM Workshop: Machine learning-assisted sampling (Workshop 1513)](https://www.cecam.org/workshop-details/machine-learning-assisted-sampling-1513)**.
 
-This course and its practical sessions were given by **Miguel Ruiz García** and **Samuel Lozano** (with the hands-on tutorials designed and prepared by Samuel Lozano).
+This course and its practical sessions were given by **Miguel Ruiz García** and **Samuel Lozano**.
 
 ---
 
