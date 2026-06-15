@@ -1,0 +1,11 @@
+# JAX Ecosystem
+jax
+jaxlib
+equinox
+optax
+chex
+
+# Data & Visualization
+numpy
+matplotlib
+ipython
